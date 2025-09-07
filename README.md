@@ -1,5 +1,6 @@
-# GHG Emissions Platform
+## LIVE: https://ghg-emissions-platform.onrender.com/
 
+# GHG Emissions Platform
 A comprehensive Greenhouse Gas (GHG) emissions reporting platform built according to the GHG Protocol standards. This platform enables organizations to track, calculate, and analyze their carbon emissions across all three scopes, with support for versioned emission factors and business metrics integration.
 
 ## 🏗️ Architecture Overview
